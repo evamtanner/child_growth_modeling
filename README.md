@@ -1,4 +1,4 @@
-# Nonlinear Modeling to Characterize Child Growth Trajectories
+# Code to Implement Nonlinear Modeling to Characterize Child Growth Trajectories
 * We use a double logistic model to characterize postnatal growth
 * Parameter estimates are then used to calculate dynamic growth metrics that can be used for novel application in environmental epidemiology 
 

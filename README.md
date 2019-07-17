@@ -9,5 +9,5 @@
 Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai
 
 ### Collaborators
-* Carl-Gustaf Bornehag & Katherine Svensson, Karlstad University, Karlstad, Sweden
+Carl-Gustaf Bornehag & Katherine Svensson, Karlstad University, Karlstad, Sweden
 

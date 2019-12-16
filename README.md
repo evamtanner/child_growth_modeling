@@ -11,6 +11,10 @@ Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai
 ### Collaborators
 Carl-Gustaf Bornehag & Katherine Svensson, Karlstad University, Karlstad, Sweden
 
+### Article
+
+[Dynamic growth metrics for examining prenatal exposure impacts on child growth trajectories: Application to perfluorooctanoic acid (PFOA) and postnatal weight gain](https://doi.org/10.1016/j.envres.2019.109044)
+
 [The SELMA Study](http://selmastudien.se/)
 
 Licensed under the [MIT License](LICENSE).
